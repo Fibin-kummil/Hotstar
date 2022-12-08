@@ -204,3 +204,10 @@ h1{
 .head-words:hover{
   color:whitesmoke;
 }
+
+.container .card img:hover{
+  width: 90%;
+  /* border-radius: 8px; */
+  transform: scale(1.5);
+    
+}
