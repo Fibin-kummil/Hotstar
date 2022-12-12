@@ -206,8 +206,12 @@ h1{
 }
 
 .container .card img:hover{
-  width: 90%;
-  /* border-radius: 8px; */
+  width: 70%;
+  transform: scale(1.5);
+    
+}
+.container5 .card img:hover{
+  width: 80%;
   transform: scale(1.5);
     
 }
